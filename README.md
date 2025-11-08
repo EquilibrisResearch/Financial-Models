@@ -3,6 +3,8 @@ Financial Models Coverage List Divided by Sector/Applicabilty:
 Aerospace and Defense (A&D):
 - Spirit Airlines (SPRT)
 
+Automotive:
+- Advance Auto Parts (AAP)
 
 Meme Stock:
 - Beyond Meat, Inc. (BYND)
