@@ -13,6 +13,9 @@ Biotech:
 - Galectin Therapeutics Inc (GALT)
 - Humacyte Inc (HUMA)
 
+Tech, Media, and Telecom (TMT):
+
+
 Meme Stock:
 - Beyond Meat, Inc. (BYND)
 - Trump Media & Technology Group Corp (DJT)
