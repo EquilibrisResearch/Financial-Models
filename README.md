@@ -6,6 +6,13 @@ Aerospace and Defense (A&D):
 Automotive:
 - Advance Auto Parts (AAP)
 
+Biotech:
+- ADMA Biologics (ADMA)
+- Anavex Life Sciences Corp (AVXL)
+- Cassava Sciences (SAVA)
+- Galectin Therapeutics Inc (GALT)
+- Humacyte Inc (HUMA)
+
 Meme Stock:
 - Beyond Meat, Inc. (BYND)
 - Trump Media & Technology Group Corp (DJT)
