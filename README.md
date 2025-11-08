@@ -14,7 +14,10 @@ Biotech:
 - Humacyte Inc (HUMA)
 
 Tech, Media, and Telecom (TMT):
-
+- AI (See folder)
+- Fintech (See folder)
+- Semiconductors (See folder)
+- Tech Hardware (See folder)
 
 Meme Stock:
 - Beyond Meat, Inc. (BYND)
