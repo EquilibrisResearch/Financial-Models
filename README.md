@@ -1,6 +1,10 @@
 Financial Models Coverage List Divided by Sector/Applicabilty:
 
-Meme Stock Coverage List:
+Aerospace and Defense (A&D):
+- Spirit Airlines (SPRT)
+
+
+Meme Stock:
 - Beyond Meat, Inc. (BYND)
 - Trump Media & Technology Group Corp (DJT)
 - Quantom Computing (See folder)
